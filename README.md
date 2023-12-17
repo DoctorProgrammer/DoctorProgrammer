@@ -4,17 +4,17 @@
 Hallo! Ich bin Robin, ein begeisterter Softwareentwickler mit Leidenschaft für innovative Technologien. Meine Expertise erstreckt sich über Webseitenentwicklung und Automatisierung von Abläufen, und ich liebe es, kreative Lösungen für komplexe Probleme zu entwickeln.
 
 ## Aktuelle Projekte
-- 🚀 [Projektname 1](Link zum Projekt 1): Eine aufregende Anwendung, die [kurze Beschreibung].
+- 🚀 [DBMS](Link zum Projekt 1): Eine aufregende Anwendung, die [kurze Beschreibung].
 - 💡 [Projektname 2](Link zum Projekt 2): Hier arbeite ich an [kurze Beschreibung].
 
 ## Technologien
 Ich arbeite gerne mit den neuesten Technologien, darunter:
-- 💻 Sprachen: [Deine Programmiersprachen]
-- 🛠️ Frameworks: [Deine Frameworks]
-- 🚀 Tools: [Deine Tools]
+- 💻 Sprachen: JavaScript, Python, Java, C#, C++, SQL, NoSQL, 
+- 🛠️ Frameworks: Node.js, React
+- 🚀 Tools: Visual Studio Code, Visual Studio Community, JetBrains-tools
 
 ## Kontakt
-📫 Du erreichst mich am besten per E-Mail unter [Deine E-Mail-Adresse]. Lass uns über interessante Projekte oder Technologien sprechen!
+📫 Du erreichst mich am besten per E-Mail unter ro.trachsel@vtxfree.ch. Lass uns über interessante Projekte oder Technologien sprechen!
 
 ## Statistiken
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=doctorprogrammer&theme=dark)](https://git.io/streak-stats)
